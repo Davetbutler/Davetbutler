@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Davetbutler](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Davetbutler](https://github-readme-stats.vercel.app/api?username=Davetbutler&show_icons=true)
 
 <!--
 **Davetbutler/Davetbutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
