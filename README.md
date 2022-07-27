@@ -2,7 +2,7 @@
 
 ![Metrics](https://metrics.lecoq.io/davetbutler?template=classic&isocalendar=1&languages=1&activity=1&stackoverflow=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&stackoverflow.user=15471232&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Europe%2FLondon)
 
-![Davetbutler](https://github-readme-stats.vercel.app/api?username=Davetbutler&show_icons=true)
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Davetbutler&theme=blue-green)
 
